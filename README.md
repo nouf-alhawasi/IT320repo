@@ -1,2 +1,7 @@
 # IT320repo
-My first repository on GitHub
+
+my name is Nouf 
+
+age 21
+
+IT student
